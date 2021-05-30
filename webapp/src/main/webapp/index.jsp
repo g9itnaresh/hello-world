@@ -2,4 +2,3 @@
 <h2> Deploying on a docker container  </h2>
 <h2> Glad to see you here </h2>
 <h2> devops pipeline by naresh</h2>
-<h2> devops pipeline by naresh2</h2>
